@@ -1,2 +1,2 @@
-# SQL-repo
-A repository for sql files
+# SQL Repository
+I have created this repository for uploading sql files
